@@ -1,0 +1,8 @@
+2024/02/23-18:14:39.695 3d40 Reusing MANIFEST C:/Users/yuxua/Documents/Unreal Projects/UnrealLearningKit/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/02/23-18:14:39.695 3d40 Recovering log #4
+2024/02/23-18:14:39.695 3d40 Reusing old log C:/Users/yuxua/Documents/Unreal Projects/UnrealLearningKit/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000004.log 
+2024/02/23-18:17:53.650 2690 Level-0 table #8: started
+2024/02/23-18:17:53.650 2690 Level-0 table #8: 0 bytes OK
+2024/02/23-18:17:53.653 2690 Delete type=0 #4
+2024/02/23-18:17:53.653 2690 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/02/23-18:17:53.653 2690 Manual compaction at level-1 from (begin) .. (end); will stop at (end)
